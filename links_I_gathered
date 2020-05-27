@@ -1,0 +1,40 @@
+https://kavita-ganesan.com/extracting-keywords-from-text-tfidf/#.XqK8xWhKjIU : keywords
+https://github.com/jordanking/arapy    : processing arabic data 
+https://www.kaggle.com/pierremegret/gensim-word2vec-tutorial : word2vec tutorial and the best visualization of words.
+https://github.com/motazsaad/shami-corpus/tree/master/Twitter-API : more cleaning of data 
+
+
+MOST USED COMMANDS 
+
+f = open("demofile.txt", "r")
+print(f.read())
+
+letters_only = re.sub("[^a-zA-Z]", # Search for all non-letters " ", # Replace all non-letters with spaces str(location))
+
+https://towardsdatascience.com/a-complete-exploratory-data-analysis-and-visualization-for-text-data-29fb1b96fb6a : some visualizations 
+
+https://brand24.com/blog/sentiment-analysis/ : usefulness of sentiment analysis
+
+Word2vec : https://towardsdatascience.com/using-word2vec-to-analyze-news-headlines-and-predict-article-success-cdeda5f14751
+
+create your own stopwords 
+https://stackoverflow.com/questions/42625084/does-nltk-contain-arabic-stop-word-if-not-how-can-i-add-it
+
+https://github.com/shubhamjn1/Pseudo-Labelling---A-Semi-supervised-learning-technique/blob/master/Pseudo-Labelling.ipynb : semisupervised sentiment analysis
+https://github.com/kylie-box/CalFire_Sentiment_Analysis/blob/master/code/semi_supervised_learning.py : 2nd link for semi-supervised learning
+https://www.datacamp.com/community/tutorials/text-analytics-beginners-nltk : sentiment analysis 
+https://github.com/HassanAzzam/Arabic-NER : NER for arabic text 
+https://towardsdatascience.com/applying-machine-learning-to-classify-an-unsupervised-text-document-e7bb6265f52 : clustering texts
+
+https://github.com/rafaljanwojcik/Unsupervised-Sentiment-Analysis/tree/master/KMeans_clustering : unsupervised sentiment analysis 
+https://ermlab.com/en/blog/nlp/polish-sentiment-analysis-using-keras-and-word2vec/ : sentiment analysis very efficient 
+
+https://machinelearningmastery.com/predict-sentiment-movie-reviews-using-deep-learning/ : using bagog words / deep learning 
+https://towardsdatascience.com/the-complete-guide-for-topics-extraction-in-python-a6aaa6cedbbc : Topic modeling 
+https://medium.com/@aelbuni/modeling-topics-in-quran-using-machine-learning-nlp-b88ca23fb44d : Topic modeling best tutorial arabic text 
+https://ai.intelligentonlinetools.com/ml/k-means-clustering-example-word2vec/ : clustering using word2vec / scikit learn 
+https://ai.intelligentonlinetools.com/ml/text-clustering-word-embedding-machine-learning/ : clustering using word2vec / scikit learn + 
+https://stackabuse.com/text-summarization-with-nltk-in-python/ 
+; text summarizing 
+https://www.kaggle.com/laowingkin/song-text-mining-and-clustering : clustering kaggle- good tutorial
+http://mccormickml.com/2019/05/14/BERT-word-embeddings-tutorial/ : BERT good tutorial..1 BERT Word Embeddings Tutorial
